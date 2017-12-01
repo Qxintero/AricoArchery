@@ -1,0 +1,904 @@
+﻿Log file open, 12/01/17 13:30:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: AricoArchery
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(466849920) SRandInit(466849920).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.322797
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.01-02.30.22:564][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.01-02.30.22:564][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.01-02.30.22:657][  0]LogInit: Computer: DESKTOP-GGU25J6
+[2017.12.01-02.30.22:657][  0]LogInit: User: Quintero
+[2017.12.01-02.30.22:657][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.01-02.30.22:657][  0]LogInit: High frequency timer resolution =3.914064 MHz
+[2017.12.01-02.30.22:657][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.12.01-02.30.22:657][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.01-02.30.22:657][  0]LogMemory: Process Physical Memory: 273.50 MB used, 273.50 MB peak
+[2017.12.01-02.30.22:657][  0]LogMemory: Process Virtual Memory: 271.75 MB used, 271.75 MB peak
+[2017.12.01-02.30.22:657][  0]LogMemory: Physical Memory: 3295.31 MB used,  13023.33 MB free, 16318.64 MB total
+[2017.12.01-02.30.22:657][  0]LogMemory: Virtual Memory: 665.23 MB used,  13023.33 MB free, 134217728.00 MB total
+[2017.12.01-02.30.23:363][  0]LogInit: Using OS detected language (en-US).
+[2017.12.01-02.30.23:363][  0]LogInit: Using OS detected locale (en-AU).
+[2017.12.01-02.30.23:542][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.01-02.30.24:175][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.01-02.30.28:499][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.01-02.30.28:606][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2017.12.01-02.30.28:606][  0]LogD3D11RHI:       6103/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.01-02.30.28:608][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.01-02.30.28:608][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.01-02.30.28:608][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.01-02.30.28:612][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.01-02.30.28:612][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.01-02.30.28:612][  0]LogWindows: EnumDisplayDevices:
+[2017.12.01-02.30.28:612][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2017.12.01-02.30.28:612][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2017.12.01-02.30.28:612][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2017.12.01-02.30.28:613][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2017.12.01-02.30.28:613][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.01-02.30.28:613][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2017.12.01-02.30.28:613][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.01-02.30.28:613][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.01-02.30.28:613][  0]LogRHI: Texture pool is 4272 MB (70% of 6103 MB)
+[2017.12.01-02.30.28:634][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.01-02.30.28:936][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.01-02.30.29:023][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Intermediate/Shaders/WorkingDirectory/9648/).
+[2017.12.01-02.30.29:023][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Quintero/AppData/Local/Temp/UnrealShaderWorkingDir/49A8973343498130A52C2DB5786576D5/'.
+[2017.12.01-02.30.29:040][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.01-02.30.32:363][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.01-02.30.32:404][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.01-02.30.32:445][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.01-02.30.32:484][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.01-02.30.32:548][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.01-02.30.32:588][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.01-02.30.32:629][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.01-02.30.32:669][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.01-02.30.32:704][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.01-02.30.32:747][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.01-02.30.32:795][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.01-02.30.32:836][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.01-02.30.32:877][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.01-02.30.32:916][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.01-02.30.32:995][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.01-02.30.32:995][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.01-02.30.33:052][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.01-02.30.33:083][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.01-02.30.33:197][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.01-02.30.33:215][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.01-02.30.33:255][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.01-02.30.33:294][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.01-02.30.33:335][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.01-02.30.33:387][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.01-02.30.33:387][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.01-02.30.34:434][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.01-02.30.34:699][  0]LogDerivedDataCache: Loaded boot cache 0.26s 79MB C:/Users/Quintero/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.01-02.30.34:699][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Quintero/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.01-02.30.34:699][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.01-02.30.34:699][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.01-02.30.34:699][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.01-02.30.34:699][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.01-02.30.34:764][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.01-02.30.34:776][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Quintero/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.01-02.30.34:825][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.01-02.30.34:912][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.01-02.30.35:032][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.01-02.30.35:033][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.01-02.30.41:294][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.01-02.30.42:880][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.01-02.30.42:943][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.01-02.30.42:944][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.01-02.30.42:944][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.01-02.30.42:944][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.01-02.30.42:944][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.01-02.30.43:433][  0]LogNetVersion: AricoArchery , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1985820187)
+[2017.12.01-02.30.44:703][  0]LogAssetRegistry: FAssetRegistry took 0.0290 seconds to start up
+[2017.12.01-02.30.51:694][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.090436 seconds
+[2017.12.01-02.30.51:722][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.01-02.30.51:722][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.12.01-02.30.51:722][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.01-02.30.51:793][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.01-02.31.10:918][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.01-02.31.10:983][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.01-02.31.12:722][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.01-02.31.13:680][  0]SourceControl: Source control is disabled
+[2017.12.01-02.31.13:698][  0]SourceControl: Source control is disabled
+[2017.12.01-02.31.13:809][  0]SourceControl: Source control is disabled
+[2017.12.01-02.31.13:932][  0]SourceControl: Source control is disabled
+[2017.12.01-02.31.15:456][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.01-02.31.15:801][  0]LogOcInput: OculusInput pre-init called
+[2017.12.01-02.31.16:716][  0]LogEngine: Initializing Engine...
+[2017.12.01-02.31.16:774][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.01-02.31.17:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.01-02.31.17:607][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.01-02.31.18:027][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.01-02.31.18:145][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-02.31.18:160][  0]LogInit: FAudioDevice initialized.
+[2017.12.01-02.31.18:226][  0]LogDerivedDataCache: Saved boot cache 0.07s 79MB C:/Users/Quintero/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.01-02.31.18:230][  0]LogInit: Texture streaming: Enabled
+[2017.12.01-02.31.18:417][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.01-02.31.19:002][  0]LogInit: Transaction tracking system initialized
+[2017.12.01-02.31.21:415][  0]BlueprintLog: New page: Editor Load
+[2017.12.01-02.31.27:402][  0]LocalizationService: Localization service is disabled
+[2017.12.01-02.31.31:107][  0]LogConsoleResponse: Display: 
+[2017.12.01-02.31.36:351][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Content/' took 0.01s
+[2017.12.01-02.31.36:351][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.01-02.31.36:351][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.01-02.31.36:367][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.01-02.31.43:549][  0]SourceControl: Source control is disabled
+[2017.12.01-02.31.43:727][  0]Cmd: MAP LOAD FILE="C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.01-02.31.43:727][  0]LogEditorServer: Warning: Can't find file 'C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2017.12.01-02.31.43:746][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.01-02.31.43:864][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 118.293ms to complete.
+[2017.12.01-02.31.43:864][  0]LogFileHelpers: Loading map 'StartupMap' took 0.229
+[2017.12.01-02.31.48:027][  0]LogCollectionManager: Loaded 0 collections in 0.004950 seconds
+[2017.12.01-02.31.48:465][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Saved/Collections/' took 0.01s
+[2017.12.01-02.31.48:465][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Content/Developers/Quintero/Collections/' took 0.01s
+[2017.12.01-02.31.48:465][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Content/Collections/' took 0.01s
+[2017.12.01-02.31.48:465][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.01-02.31.48:485][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2363 classes and 519 folders.
+[2017.12.01-02.31.48:662][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.01-02.31.52:161][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.01-02.31.52:397][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.01-02.31.55:470][  0]LogSlate: Took 0.063681 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.01-02.31.55:520][  0]LogSlate: Took 0.015605 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.01-02.31.55:750][  0]LogSlate: Took 0.069732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.01-02.31.57:273][  0]LogRenderer: Reallocating scene render targets to support 1224x672 Format 26 NumSamples 1 (Frame:1).
+[2017.12.01-02.31.58:899][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.01-02.31.58:899][  0]LogLoad: (Engine Initialization) Total time: 118.44 seconds
+[2017.12.01-02.31.58:899][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.01-02.31.58:899][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.01-02.31.59:460][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.01-02.32.00:155][  2]LogAssetRegistry: Asset discovery search completed in 75.4731 seconds
+[2017.12.01-02.32.00:226][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.01-02.32.00:226][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2017.12.01-02.32.04:036][ 13]LogSlate: Took 0.065394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.01-02.32.15:523][ 48]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.01-02.32.15:604][ 48]LogAIModule: Creating AISystem for world FiringRange
+[2017.12.01-02.32.15:896][ 48]Cmd: MAP LOAD FILE="C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Content/Maps/FiringRange.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.01-02.32.15:896][ 48]LightingResults: New page: Lighting Build
+[2017.12.01-02.32.15:953][ 48]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2017.12.01-02.32.15:954][ 48]LoadErrors: New page: Loading map: FiringRange.umap
+[2017.12.01-02.32.15:969][ 48]MapCheck: New page: Map Check
+[2017.12.01-02.32.15:969][ 48]LightingResults: New page: Lighting Build
+[2017.12.01-02.32.16:355][ 48]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.01-02.32.16:391][ 48]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.01-02.32.16:448][ 48]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.316ms to complete.
+[2017.12.01-02.32.16:448][ 48]LogFileHelpers: Loading map 'FiringRange' took 0.603
+[2017.12.01-02.32.16:449][ 48]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.01-02.33.04:557][773]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.01-02.33.04:609][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-02.33.04:629][773]PIE: New page: PIE session: FiringRange (2 Dec 2017 12:33:04 am)
+[2017.12.01-02.33.04:629][773]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FiringRange
+[2017.12.01-02.33.04:670][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041257s)
+[2017.12.01-02.33.04:671][773]LogAIModule: Creating AISystem for world FiringRange
+[2017.12.01-02.33.04:671][773]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2017.12.01-02.33.04:671][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FiringRange.FiringRange to /Game/Maps/UEDPIE_0_FiringRange.FiringRange (0.042242s)
+[2017.12.01-02.33.04:690][773]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.01-02.33.04:698][773]LogInit: FAudioDevice initialized.
+[2017.12.01-02.33.04:780][773]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.01-02.33.04:780][773]LogLoad: Game class is 'GameModeBase'
+[2017.12.01-02.33.04:822][773]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FiringRange.FiringRange up for play (max tick rate 0) at 2017.12.01-13.33.04
+[2017.12.01-02.33.04:822][773]LogWorld: Bringing up level for play took: 0.000612
+[2017.12.01-02.33.04:938][773]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2017.12.01-02.33.05:035][773]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FiringRange 0.34
+[2017.12.01-02.33.57:905][972]LogEditorViewport: Clicking Background
+[2017.12.01-02.34.08:885][277]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2017.12.01-02.34.11:047][535]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2017.12.01-02.34.12:247][679]Cmd: POLY TEXPAN U=1.000000 V=0.000000
+[2017.12.01-02.34.16:322][168]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=-0.707107 VU=0.707107
+[2017.12.01-02.34.17:414][299]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=-0.707107 VU=0.707107
+[2017.12.01-02.34.18:272][402]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=-0.707107 VU=0.707107
+[2017.12.01-02.34.18:589][440]Cmd: POLY TEXMULT UU=0.707107 VV=0.707107 UV=-0.707107 VU=0.707107
+[2017.12.01-02.34.52:839][523]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane)
+[2017.12.01-02.35.25:045][332]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane)
+[2017.12.01-02.35.39:332][ 28]LogEditorViewport: Clicking Background
+[2017.12.01-02.36.20:572][944]Cmd: DUPLICATE
+[2017.12.01-02.36.20:572][944]Cmd: ACTOR DUPLICATE
+[2017.12.01-02.36.38:487][973]Cmd: DUPLICATE
+[2017.12.01-02.36.38:487][973]Cmd: ACTOR DUPLICATE
+[2017.12.01-02.37.42:778][618]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane)
+[2017.12.01-02.37.51:316][613]Cmd: DUPLICATE
+[2017.12.01-02.37.51:316][613]Cmd: ACTOR DUPLICATE
+[2017.12.01-02.38.41:197][463]Cmd: TRANSACTION UNDO
+[2017.12.01-02.38.41:197][463]LogEditorTransaction: Undo Move Actors
+[2017.12.01-02.38.41:200][463]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2017.12.01-02.38.41:200][463]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush16.BrushComponent0) Component already registered.
+[2017.12.01-02.38.41:201][463]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2017.12.01-02.38.41:474][463]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.01-02.38.50:973][562]Cmd: DELETE
+[2017.12.01-02.38.50:973][562]Cmd: ACTOR DELETE
+[2017.12.01-02.38.51:006][562]LogEditorActor: Deleted Actor: Brush
+[2017.12.01-02.38.51:022][562]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2017.12.01-02.40.28:488][142]Cmd: DUPLICATE
+[2017.12.01-02.40.28:488][142]Cmd: ACTOR DUPLICATE
+[2017.12.01-02.41.55:718][407]Cmd: DUPLICATE
+[2017.12.01-02.41.55:718][407]Cmd: ACTOR DUPLICATE
+[2017.12.01-02.42.11:046][916]Cmd: DUPLICATE
+[2017.12.01-02.42.11:046][916]Cmd: ACTOR DUPLICATE
+[2017.12.01-02.42.30:886][248]LogEditorViewport: Clicking Background
+[2017.12.01-02.43.40:311][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.12.01-02.43.43:173][734]Cmd: DUPLICATE
+[2017.12.01-02.43.43:173][734]Cmd: ACTOR DUPLICATE
+[2017.12.01-02.43.59:064][572]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane)
+[2017.12.01-02.44.22:094][174]Cmd: DUPLICATE
+[2017.12.01-02.44.22:094][174]Cmd: ACTOR DUPLICATE
+[2017.12.01-02.45.32:409][387]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2017.12.01-02.45.57:535][328]Cmd: TRANSACTION UNDO
+[2017.12.01-02.45.57:535][328]LogEditorTransaction: Undo Edit Y
+[2017.12.01-02.45.57:540][328]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush25.BrushComponent0) Component already registered.
+[2017.12.01-02.46.17:312][660]Cmd: TRANSACTION UNDO
+[2017.12.01-02.46.17:312][660]LogEditorTransaction: Undo Move Actors
+[2017.12.01-02.46.17:315][660]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2017.12.01-02.46.17:317][660]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush25.BrushComponent0) Component already registered.
+[2017.12.01-02.48.44:209][ 29]Cmd: TRANSACTION UNDO
+[2017.12.01-02.48.44:209][ 29]LogEditorTransaction: Undo Edit Y
+[2017.12.01-02.48.44:215][ 29]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush25.BrushComponent0) Component already registered.
+[2017.12.01-02.48.44:608][ 72]Cmd: TRANSACTION UNDO
+[2017.12.01-02.48.44:608][ 72]LogEditorTransaction: Undo Edit Y
+[2017.12.01-02.48.44:612][ 72]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush25.BrushComponent0) Component already registered.
+[2017.12.01-02.48.45:458][169]Cmd: TRANSACTION UNDO
+[2017.12.01-02.48.45:458][169]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.01-02.49.01:270][ 43]Cmd: TRANSACTION UNDO
+[2017.12.01-02.49.01:270][ 43]LogEditorTransaction: Undo Edit Y
+[2017.12.01-02.49.01:275][ 43]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush25.BrushComponent0) Component already registered.
+[2017.12.01-02.49.01:646][ 81]Cmd: TRANSACTION UNDO
+[2017.12.01-02.49.01:646][ 81]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.01-02.49.07:458][767]Cmd: EDCALLBACK SURFPROPS
+[2017.12.01-02.49.27:022][ 81]Cmd: DUPLICATE
+[2017.12.01-02.49.27:022][ 81]Cmd: ACTOR DUPLICATE
+[2017.12.01-02.50.46:810][333]Cmd: DUPLICATE
+[2017.12.01-02.50.46:810][333]Cmd: ACTOR DUPLICATE
+[2017.12.01-02.51.31:197][553]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.01-02.53.32:422][816]Cmd: DUPLICATE
+[2017.12.01-02.53.32:422][816]Cmd: ACTOR DUPLICATE
+[2017.12.01-02.54.50:254][  0]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.01-02.56.27:255][235]LogEditorViewport: Clicking Background
+[2017.12.01-02.56.29:986][547]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush40)
+[2017.12.01-02.56.30:820][644]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush40)
+[2017.12.01-02.56.32:069][791]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush40)
+[2017.12.01-02.56.33:261][930]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush40)
+[2017.12.01-02.56.33:821][994]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush40)
+[2017.12.01-02.56.36:860][340]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush40)
+[2017.12.01-02.57.03:529][395]LogGeometryMode: Warning: Unable to find BoxBrush6 Brush(s) in new BSP
+[2017.12.01-02.57.03:529][395]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.01-02.57.04:763][539]Cmd: DUPLICATE
+[2017.12.01-02.57.04:764][539]Cmd: ACTOR DUPLICATE
+[2017.12.01-02.57.37:591][217]Cmd: DUPLICATE
+[2017.12.01-02.57.37:591][217]Cmd: ACTOR DUPLICATE
+[2017.12.01-02.59.48:464][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.12.01-03.00.53:781][888]LogEditorViewport: Clicking Background
+[2017.12.01-03.01.17:674][712]Cmd: DUPLICATE
+[2017.12.01-03.01.17:674][712]Cmd: ACTOR DUPLICATE
+[2017.12.01-03.03.16:886][638]Cmd: TRANSACTION UNDO
+[2017.12.01-03.03.16:886][638]LogEditorTransaction: Undo Move Actors
+[2017.12.01-03.03.16:892][638]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2017.12.01-03.03.17:483][704]Cmd: TRANSACTION UNDO
+[2017.12.01-03.03.17:483][704]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.01-03.03.18:016][765]Cmd: TRANSACTION UNDO
+[2017.12.01-03.03.18:016][765]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.01-03.03.53:830][910]LogGeometryMode: Warning: Unable to find BoxBrush40 Brush(s) in new BSP
+[2017.12.01-03.03.53:830][910]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.01-03.04.02:447][856]LogGeometryMode: Warning: Unable to find BoxBrush40 Brush(s) in new BSP
+[2017.12.01-03.04.02:447][856]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.01-03.04.03:344][960]Cmd: TRANSACTION UNDO
+[2017.12.01-03.04.03:344][960]LogEditorTransaction: Undo Move Actors
+[2017.12.01-03.04.03:350][960]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2017.12.01-03.04.05:262][181]Cmd: TRANSACTION UNDO
+[2017.12.01-03.04.05:262][181]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.01-03.04.05:262][181]LogGeometryMode: Warning: Unable to find BoxBrush40 Brush(s) in new BSP
+[2017.12.01-03.04.05:262][181]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.01-03.04.06:774][346]Cmd: TRANSACTION UNDO
+[2017.12.01-03.04.06:774][346]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.01-03.04.09:756][700]Cmd: TRANSACTION REDO
+[2017.12.01-03.04.09:756][700]LogEditorTransaction: Redo Modifier [Edit]
+[2017.12.01-03.04.10:286][761]Cmd: TRANSACTION REDO
+[2017.12.01-03.04.10:286][761]LogEditorTransaction: Redo Modifier [Edit]
+[2017.12.01-03.04.10:287][761]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2017.12.01-03.04.10:287][761]LogGeometryMode: Warning: Unable to resolve BoxBrush40 Brush in new BSP, see above
+[2017.12.01-03.04.10:287][761]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.01-03.04.29:868][976]LogGeometryMode: Warning: Unable to find BoxBrush40 Brush(s) in new BSP
+[2017.12.01-03.04.29:868][976]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.01-03.04.35:434][593]Cmd: TRANSACTION UNDO
+[2017.12.01-03.04.35:434][593]LogEditorTransaction: Undo Move Actors
+[2017.12.01-03.04.35:440][593]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2017.12.01-03.04.39:934][100]Cmd: TRANSACTION UNDO
+[2017.12.01-03.04.39:934][100]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.01-03.04.44:850][610]LogGeomTools: Triangulation of poly failed.
+[2017.12.01-03.04.44:850][610]LogGeomTools: Triangulation of poly failed.
+[2017.12.01-03.04.46:544][810]Cmd: TRANSACTION UNDO
+[2017.12.01-03.04.46:544][810]LogEditorTransaction: Undo Move Actors
+[2017.12.01-03.04.46:551][810]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2017.12.01-03.04.46:556][810]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2017.12.01-03.04.46:556][810]LogGeometryMode: Warning: Unable to resolve BoxBrush40 Brush in new BSP, see above
+[2017.12.01-03.04.46:556][810]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.01-03.04.49:116][ 98]LogGeometryMode: Warning: Unable to find BoxBrush42 Brush(s) in new BSP
+[2017.12.01-03.04.49:116][ 98]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.01-03.04.51:173][303]LogEditorViewport: Clicking Background
+[2017.12.01-03.04.59:110][226]Cmd: TRANSACTION UNDO
+[2017.12.01-03.04.59:110][226]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.01-03.04.59:574][258]Cmd: TRANSACTION UNDO
+[2017.12.01-03.04.59:574][258]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.01-03.05.00:366][345]Cmd: TRANSACTION UNDO
+[2017.12.01-03.05.00:366][345]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.01-03.05.00:800][394]Cmd: TRANSACTION UNDO
+[2017.12.01-03.05.00:800][394]LogEditorTransaction: Undo Clicking Background
+[2017.12.01-03.05.01:120][429]Cmd: TRANSACTION UNDO
+[2017.12.01-03.05.01:120][429]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.01-03.05.01:739][500]Cmd: TRANSACTION UNDO
+[2017.12.01-03.05.01:739][500]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.01-03.05.02:188][551]Cmd: TRANSACTION UNDO
+[2017.12.01-03.05.02:188][551]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.01-03.05.02:562][593]Cmd: TRANSACTION UNDO
+[2017.12.01-03.05.02:562][593]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.01-03.05.02:853][625]Cmd: TRANSACTION UNDO
+[2017.12.01-03.05.02:853][625]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.01-03.05.04:031][763]Cmd: TRANSACTION REDO
+[2017.12.01-03.05.04:031][763]LogEditorTransaction: Redo Modifier [Edit]
+[2017.12.01-03.05.04:373][801]Cmd: TRANSACTION REDO
+[2017.12.01-03.05.04:373][801]LogEditorTransaction: Redo Modifier [Edit]
+[2017.12.01-03.05.04:734][842]Cmd: TRANSACTION REDO
+[2017.12.01-03.05.04:734][842]LogEditorTransaction: Redo Modifier [Edit]
+[2017.12.01-03.05.05:069][880]Cmd: TRANSACTION REDO
+[2017.12.01-03.05.05:069][880]LogEditorTransaction: Redo Modifier [Edit]
+[2017.12.01-03.05.05:356][912]Cmd: TRANSACTION REDO
+[2017.12.01-03.05.05:356][912]LogEditorTransaction: Redo Modifier [Edit]
+[2017.12.01-03.05.05:356][912]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2017.12.01-03.05.05:356][912]LogGeometryMode: Warning: Unable to resolve BoxBrush41 Brush in new BSP, see above
+[2017.12.01-03.05.05:356][912]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.01-03.05.10:383][503]MapCheck: New page: Map Check
+[2017.12.01-03.05.10:649][503]Cmd: MAP REBUILD ALLVISIBLE
+[2017.12.01-03.05.10:660][503]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.12.01-03.05.10:745][503]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.12.01-03.05.10:745][503]MapCheck: New page: FiringRange - 2 Dec 2017 1:05:10 am
+[2017.12.01-03.05.10:745][503]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2017.12.01-03.05.10:804][503]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 59.269ms to complete.
+[2017.12.01-03.05.10:826][503]LogEditorBuildUtils: Build time 0:00
+[2017.12.01-03.05.42:901][149]LogGeometryMode: Warning: Unable to find BoxBrush42 Brush(s) in new BSP
+[2017.12.01-03.05.42:901][149]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.01-03.05.47:046][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.12.01-03.06.36:361][384]LogEditorViewport: Clicking Background
+[2017.12.01-03.07.00:151][228]MapCheck: New page: Map Check
+[2017.12.01-03.07.00:166][228]Cmd: MAP REBUILD ALLVISIBLE
+[2017.12.01-03.07.00:166][228]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.12.01-03.07.00:257][228]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.12.01-03.07.00:257][228]MapCheck: New page: FiringRange - 2 Dec 2017 1:07:00 am
+[2017.12.01-03.07.00:257][228]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2017.12.01-03.07.00:314][228]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 57.286ms to complete.
+[2017.12.01-03.07.00:337][228]LogEditorBuildUtils: Build time 0:00
+[2017.12.01-03.07.07:244][ 51]MapCheck: New page: Map Check
+[2017.12.01-03.07.07:259][ 51]Cmd: MAP REBUILD ALLVISIBLE
+[2017.12.01-03.07.07:259][ 51]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.12.01-03.07.07:362][ 51]LightingResults: New page: Lighting Build - 2 Dec 2017 1:07:07 am
+[2017.12.01-03.07.07:676][ 51]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.01-03.07.08:230][ 51]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.01-03.07.08:246][ 51]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.01-03.07.08:784][ 51]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.01-03.07.08:784][ 51]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9648
+[2017.12.01-03.07.11:256][ 51]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2017.12.01-03.07.11:256][ 51]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.01-03.07.11:256][ 51]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.01-03.07.11:256][ 51]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.01-03.07.11:256][ 51]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.01-03.07.11:256][ 51]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.01-03.07.11:445][ 51]LogEditorBuildUtils: Build time 0:04
+[2017.12.01-03.07.11:453][ 51]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2017.12.01-03.07.11:500][ 51]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2017.12.01-03.07.11:522][ 52]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.12.01-03.07.11:538][ 52]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.12.01-03.07.16:057][218]Job is a success!
+[2017.12.01-03.07.16:170][219]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.066s
+[2017.12.01-03.07.16:170][219]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2017.12.01-03.07.16:170][219]LogVolumetricLightmapImport:      BrickData 505x5x5 = 0.4Mb
+[2017.12.01-03.07.16:170][219]LogVolumetricLightmapImport:      Bricks at Level
+[2017.12.01-03.07.16:170][219]LogVolumetricLightmapImport:          0: 7.9% covering 100.0% of volume
+[2017.12.01-03.07.16:170][219]LogVolumetricLightmapImport:          1: 52.5% covering 10.4% of volume
+[2017.12.01-03.07.16:170][219]LogVolumetricLightmapImport:          2: 39.6% covering 0.1% of volume
+[2017.12.01-03.07.16:372][219]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2017.12.01-03.07.16:372][219]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2017.12.01-03.07.16:372][219]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2017.12.01-03.07.16:372][219]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 128X64)
+[2017.12.01-03.07.16:372][219]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2017.12.01-03.07.16:372][219]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2017.12.01-03.07.16:372][219]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X64)
+[2017.12.01-03.07.16:372][219]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X256)
+[2017.12.01-03.07.16:424][219]Lightmass on DESKTOP-GGU25J6: 1.76 sec total, 69 ms importing, 6 ms setup, 444 ms photons, 1.19 sec processing, 0 ms extra exporting [188/188 mappings]. Threads: 8.21 sec total, 1.67 sec processing.
+[2017.12.01-03.07.16:473][219]LogStaticLightingSystem: Illumination: 9.09 sec (104 ms encoding lightmaps, 30 ms encoding shadowmaps)
+[2017.12.01-03.07.16:473][219]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 4 textures
+[2017.12.01-03.07.16:473][219]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.0 MB streaming, 0.2 MB non-streaming), 2 textures
+[2017.12.01-03.07.17:259][219]DumpUnbuiltLightIteractions
+[2017.12.01-03.07.17:259][219]Lights with unbuilt interactions: 0
+[2017.12.01-03.07.17:259][219]
+[2017.12.01-03.07.17:259][219]Primitives with unbuilt interactions: 0
+[2017.12.01-03.07.17:271][220]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.01-03.07.17:271][220]MapCheck: New page: FiringRange - 2 Dec 2017 1:07:17 am
+[2017.12.01-03.07.17:330][220]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.62ms to complete.
+[2017.12.01-03.07.40:517][289]LogSavePackage: Save=99.13ms
+[2017.12.01-03.07.40:517][289]LogSavePackage: Moving 'C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Saved/FiringRange_Auto128CB8F724D33BCB265624B962A6536C5.tmp' to 'C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Saved/Autosaves/Game/Maps/FiringRange_Auto1.umap'
+[2017.12.01-03.07.40:519][289]LogSavePackage: Display: Finished SavePackage C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Saved/Autosaves/Game/Maps/FiringRange_Auto1.umap
+[2017.12.01-03.07.40:521][289]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FiringRange' took 0.163
+[2017.12.01-03.07.40:521][289]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.163
+[2017.12.01-03.07.40:523][289]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/FiringRange_BuiltData] ([1] browsable assets)...
+[2017.12.01-03.07.40:523][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/FiringRange_BuiltData]
+[2017.12.01-03.07.40:533][289]LogSavePackage: Save=7.84ms
+[2017.12.01-03.07.40:533][289]LogSavePackage: Moving 'C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Saved/FiringRange_BuiltData_Auto19A9798F7477492DACD7A03A157E8BD28.tmp' to 'C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Saved/Autosaves/Game/Maps/FiringRange_BuiltData_Auto1.uasset'
+[2017.12.01-03.07.40:535][289]LogSavePackage: Display: Finished SavePackage C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Saved/Autosaves/Game/Maps/FiringRange_BuiltData_Auto1.uasset
+[2017.12.01-03.07.40:535][289]LogFileHelpers: Auto-saving content packages took 0.013
+[2017.12.01-03.26.47:133][302]LogEditorViewport: Clicking on Actor (LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2017.12.01-03.26.47:853][318]LogEditorViewport: Clicking on Actor (context menu): ExponentialHeightFog (ExponentialHeightFog)
+[2017.12.01-03.26.49:894][555]LogEditorViewport: Clicking on Actor (CTRL LMB): DirectionalLight (Light Source)
+[2017.12.01-03.27.08:043][680]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2017.12.01-03.27.12:251][150]LogEditorViewport: Clicking on Actor (CTRL LMB): DirectionalLight (Light Source)
+[2017.12.01-03.27.13:287][272]LogEditorViewport: Clicking on Actor (CTRL LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2017.12.01-03.27.48:241][348]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2017.12.01-03.28.40:781][538]MapCheck: New page: Map Check
+[2017.12.01-03.28.40:798][538]Cmd: MAP REBUILD ALLVISIBLE
+[2017.12.01-03.28.40:798][538]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.12.01-03.28.40:915][538]LightingResults: New page: Lighting Build - 2 Dec 2017 1:28:40 am
+[2017.12.01-03.28.40:921][538]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.01-03.28.40:924][538]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.01-03.28.40:924][538]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.01-03.28.40:925][538]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.01-03.28.40:925][538]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9648
+[2017.12.01-03.28.45:537][538]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2017.12.01-03.28.45:537][538]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.01-03.28.45:537][538]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.01-03.28.45:537][538]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.01-03.28.45:537][538]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.01-03.28.45:537][538]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.01-03.28.45:652][538]LogEditorBuildUtils: Build time 0:04
+[2017.12.01-03.28.47:291][667]Job is a success!
+[2017.12.01-03.28.47:389][669]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.058s
+[2017.12.01-03.28.47:389][669]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2017.12.01-03.28.47:389][669]LogVolumetricLightmapImport:      BrickData 490x5x5 = 0.4Mb
+[2017.12.01-03.28.47:389][669]LogVolumetricLightmapImport:      Bricks at Level
+[2017.12.01-03.28.47:389][669]LogVolumetricLightmapImport:          0: 8.2% covering 100.0% of volume
+[2017.12.01-03.28.47:389][669]LogVolumetricLightmapImport:          1: 54.1% covering 10.4% of volume
+[2017.12.01-03.28.47:389][669]LogVolumetricLightmapImport:          2: 37.8% covering 0.1% of volume
+[2017.12.01-03.28.47:514][669]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2017.12.01-03.28.47:514][669]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2017.12.01-03.28.47:514][669]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2017.12.01-03.28.47:514][669]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 128X64)
+[2017.12.01-03.28.47:514][669]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2017.12.01-03.28.47:514][669]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2017.12.01-03.28.47:534][669]Lightmass on DESKTOP-GGU25J6: 1.45 sec total, 67 ms importing, 5 ms setup, 378 ms photons, 982 ms processing, 0 ms extra exporting [188/188 mappings]. Threads: 6.72 sec total, 1.06 sec processing.
+[2017.12.01-03.28.47:559][669]LogStaticLightingSystem: Illumination: 6.63 sec (84 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2017.12.01-03.28.47:559][669]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 4 textures
+[2017.12.01-03.28.47:559][669]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.12.01-03.28.48:539][669]DumpUnbuiltLightIteractions
+[2017.12.01-03.28.48:539][669]Lights with unbuilt interactions: 0
+[2017.12.01-03.28.48:539][669]
+[2017.12.01-03.28.48:539][669]Primitives with unbuilt interactions: 0
+[2017.12.01-03.28.48:550][670]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.01-03.28.48:550][670]MapCheck: New page: FiringRange - 2 Dec 2017 1:28:48 am
+[2017.12.01-03.28.48:609][670]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.542ms to complete.
+[2017.12.01-03.29.01:718][204]MapCheck: New page: Map Check
+[2017.12.01-03.29.01:734][204]Cmd: MAP REBUILD ALLVISIBLE
+[2017.12.01-03.29.01:734][204]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.12.01-03.29.01:857][204]LightingResults: New page: Lighting Build - 2 Dec 2017 1:29:01 am
+[2017.12.01-03.29.01:863][204]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.01-03.29.01:865][204]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.01-03.29.01:865][204]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.01-03.29.01:866][204]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.01-03.29.01:866][204]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9648
+[2017.12.01-03.29.06:408][204]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2017.12.01-03.29.06:408][204]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.01-03.29.06:408][204]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.01-03.29.06:408][204]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.01-03.29.06:408][204]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.01-03.29.06:408][204]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.01-03.29.06:500][204]LogEditorBuildUtils: Build time 0:04
+[2017.12.01-03.29.08:154][335]Job is a success!
+[2017.12.01-03.29.08:251][336]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.059s
+[2017.12.01-03.29.08:251][336]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2017.12.01-03.29.08:251][336]LogVolumetricLightmapImport:      BrickData 490x5x5 = 0.4Mb
+[2017.12.01-03.29.08:251][336]LogVolumetricLightmapImport:      Bricks at Level
+[2017.12.01-03.29.08:251][336]LogVolumetricLightmapImport:          0: 8.2% covering 100.0% of volume
+[2017.12.01-03.29.08:251][336]LogVolumetricLightmapImport:          1: 54.1% covering 10.4% of volume
+[2017.12.01-03.29.08:251][336]LogVolumetricLightmapImport:          2: 37.8% covering 0.1% of volume
+[2017.12.01-03.29.08:374][336]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2017.12.01-03.29.08:374][336]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2017.12.01-03.29.08:374][336]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2017.12.01-03.29.08:374][336]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 128X64)
+[2017.12.01-03.29.08:374][336]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2017.12.01-03.29.08:374][336]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2017.12.01-03.29.08:394][336]Lightmass on DESKTOP-GGU25J6: 1.47 sec total, 68 ms importing, 5 ms setup, 377 ms photons, 1.00 sec processing, 0 ms extra exporting [188/188 mappings]. Threads: 6.84 sec total, 977 ms processing.
+[2017.12.01-03.29.08:417][336]LogStaticLightingSystem: Illumination: 6.54 sec (81 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2017.12.01-03.29.08:417][336]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 4 textures
+[2017.12.01-03.29.08:417][336]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.12.01-03.29.09:410][336]DumpUnbuiltLightIteractions
+[2017.12.01-03.29.09:410][336]Lights with unbuilt interactions: 0
+[2017.12.01-03.29.09:410][336]
+[2017.12.01-03.29.09:410][336]Primitives with unbuilt interactions: 0
+[2017.12.01-03.29.09:421][337]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.01-03.29.09:421][337]MapCheck: New page: FiringRange - 2 Dec 2017 1:29:09 am
+[2017.12.01-03.29.09:477][337]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.028ms to complete.
+[2017.12.01-03.30.03:245][743]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.01-03.31.45:080][778]Cmd: DUPLICATE
+[2017.12.01-03.31.45:080][778]Cmd: ACTOR DUPLICATE
+[2017.12.01-03.33.04:266][ 74]Cmd: DUPLICATE
+[2017.12.01-03.33.04:266][ 74]Cmd: ACTOR DUPLICATE
+[2017.12.01-03.33.53:434][737]Cmd: DUPLICATE
+[2017.12.01-03.33.53:434][737]Cmd: ACTOR DUPLICATE
+[2017.12.01-03.36.02:665][873]Cmd: TRANSACTION UNDO
+[2017.12.01-03.36.02:665][873]LogEditorTransaction: Undo Edit Volumetric Scattering Intensity
+[2017.12.01-03.36.55:325][137]LogSavePackage: Save=162.76ms
+[2017.12.01-03.36.55:325][137]LogSavePackage: Moving 'C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Saved/FiringRange_Auto2D14E12C643A312D6E82CC69354117394.tmp' to 'C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Saved/Autosaves/Game/Maps/FiringRange_Auto2.umap'
+[2017.12.01-03.36.55:327][137]LogSavePackage: Display: Finished SavePackage C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Saved/Autosaves/Game/Maps/FiringRange_Auto2.umap
+[2017.12.01-03.36.55:331][137]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FiringRange' took 0.185
+[2017.12.01-03.36.55:331][137]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.185
+[2017.12.01-03.36.55:333][137]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/FiringRange_BuiltData] ([1] browsable assets)...
+[2017.12.01-03.36.55:333][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/FiringRange_BuiltData]
+[2017.12.01-03.36.55:340][137]LogSavePackage: Save=5.22ms
+[2017.12.01-03.36.55:340][137]LogSavePackage: Moving 'C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Saved/FiringRange_BuiltData_Auto25577995340A5FB4F608B5EA7CEACD53C.tmp' to 'C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Saved/Autosaves/Game/Maps/FiringRange_BuiltData_Auto2.uasset'
+[2017.12.01-03.36.55:342][137]LogSavePackage: Display: Finished SavePackage C:/Users/Quintero/Desktop/Arico Archery/AricoArchery/AricoArchery/Saved/Autosaves/Game/Maps/FiringRange_BuiltData_Auto2.uasset
+[2017.12.01-03.36.55:342][137]LogFileHelpers: Auto-saving content packages took 0.010
+[2017.12.01-03.37.00:186][712]Cmd: TRANSACTION UNDO
+[2017.12.01-03.37.00:186][712]LogEditorTransaction: Undo Move Actors
+[2017.12.01-03.37.15:252][454]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.01-03.37.48:215][271]Cmd: TRANSACTION UNDO
+[2017.12.01-03.37.48:215][271]LogEditorTransaction: Undo Rotate Actors
+[2017.12.01-03.37.48:221][271]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2017.12.01-03.37.48:221][271]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2017.12.01-03.37.48:221][271]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2017.12.01-03.37.48:223][271]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush43.BrushComponent0) Component already registered.
+[2017.12.01-03.37.48:224][271]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2017.12.01-03.38.24:700][555]Cmd: DUPLICATE
+[2017.12.01-03.38.24:700][555]Cmd: ACTOR DUPLICATE
+[2017.12.01-03.39.21:970][334]Cmd: TRANSACTION UNDO
+[2017.12.01-03.39.21:970][334]LogEditorTransaction: Undo Scale Actors
+[2017.12.01-03.39.21:976][334]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2017.12.01-03.39.21:977][334]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2017.12.01-03.39.21:978][334]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush40.BrushComponent0) Component already registered.
+[2017.12.01-03.39.22:306][369]Cmd: TRANSACTION UNDO
+[2017.12.01-03.39.22:306][369]LogEditorTransaction: Undo Scale Actors
+[2017.12.01-03.39.22:312][369]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2017.12.01-03.39.22:312][369]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2017.12.01-03.39.22:314][369]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush40.BrushComponent0) Component already registered.
+[2017.12.01-03.39.44:352][971]Cmd: DUPLICATE
+[2017.12.01-03.39.44:352][971]Cmd: ACTOR DUPLICATE
+[2017.12.01-03.40.35:094][947]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2017.12.01-03.40.38:111][305]Cmd: DELETE
+[2017.12.01-03.40.38:111][305]Cmd: ACTOR DELETE
+[2017.12.01-03.40.38:119][305]LogEditorActor: Deleted Actor: SpotLight
+[2017.12.01-03.40.38:131][305]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.12.01-03.40.44:051][973]MapCheck: New page: Map Check
+[2017.12.01-03.40.44:067][973]Cmd: MAP REBUILD ALLVISIBLE
+[2017.12.01-03.40.44:075][973]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.12.01-03.40.44:230][973]LightingResults: New page: Lighting Build - 2 Dec 2017 1:40:44 am
+[2017.12.01-03.40.44:239][973]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.01-03.40.44:240][973]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.01-03.40.44:240][973]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.01-03.40.44:241][973]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.01-03.40.44:241][973]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9648
+[2017.12.01-03.40.48:776][973]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2017.12.01-03.40.48:777][973]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.01-03.40.48:777][973]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.01-03.40.48:777][973]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.01-03.40.48:777][973]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.01-03.40.48:777][973]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.01-03.40.48:897][973]LogEditorBuildUtils: Build time 0:04
+[2017.12.01-03.40.50:621][100]Job is a success!
+[2017.12.01-03.40.52:932][361]MapCheck: New page: Map Check
+[2017.12.01-03.40.52:947][361]Cmd: MAP REBUILD ALLVISIBLE
+[2017.12.01-03.40.52:947][361]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.12.01-03.40.53:105][361]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.12.01-03.40.53:105][361]MapCheck: New page: FiringRange - 2 Dec 2017 1:40:53 am
+[2017.12.01-03.40.53:164][361]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.519ms to complete.
+[2017.12.01-03.40.53:186][361]LogEditorBuildUtils: Build time 0:00
+[2017.12.01-03.40.58:837][ 29]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.059s
+[2017.12.01-03.40.58:837][ 29]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2017.12.01-03.40.58:837][ 29]LogVolumetricLightmapImport:      BrickData 490x5x5 = 0.4Mb
+[2017.12.01-03.40.58:837][ 29]LogVolumetricLightmapImport:      Bricks at Level
+[2017.12.01-03.40.58:837][ 29]LogVolumetricLightmapImport:          0: 8.2% covering 100.0% of volume
+[2017.12.01-03.40.58:837][ 29]LogVolumetricLightmapImport:          1: 54.1% covering 10.4% of volume
+[2017.12.01-03.40.58:837][ 29]LogVolumetricLightmapImport:          2: 37.8% covering 0.1% of volume
+[2017.12.01-03.40.58:874][ 29]Lightmass on DESKTOP-GGU25J6: 9.53 sec total, 68 ms importing, 6 ms setup, 375 ms photons, 9.06 sec processing, 0 ms extra exporting [224/224 mappings]. Threads: 1:03 min total, 1.50 sec processing.
+[2017.12.01-03.40.58:892][ 29]LogStaticLightingSystem: Illumination: 6.53 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2017.12.01-03.40.58:892][ 29]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.12.01-03.40.58:892][ 29]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.12.01-03.40.59:781][ 29]DumpUnbuiltLightIteractions
+[2017.12.01-03.40.59:781][ 29]Lights with unbuilt interactions: 0
+[2017.12.01-03.40.59:781][ 29]
+[2017.12.01-03.40.59:781][ 29]Primitives with unbuilt interactions: 0
+[2017.12.01-03.40.59:787][ 30]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.01-03.40.59:787][ 30]MapCheck: New page: FiringRange - 2 Dec 2017 1:40:59 am
+[2017.12.01-03.40.59:845][ 30]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.604ms to complete.
+[2017.12.01-03.41.13:600][652]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.01-03.42.59:241][935]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.01-03.43.32:923][863]Cmd: TRANSACTION UNDO
+[2017.12.01-03.43.32:923][863]LogEditorTransaction: Undo Rotate Actors
+[2017.12.01-03.43.32:940][863]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2017.12.01-03.43.32:940][863]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2017.12.01-03.43.32:941][863]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2017.12.01-03.43.32:941][863]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2017.12.01-03.43.32:945][863]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2017.12.01-03.43.32:945][863]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2017.12.01-03.43.32:945][863]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2017.12.01-03.43.32:945][863]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2017.12.01-03.43.32:945][863]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2017.12.01-03.43.32:946][863]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush43.BrushComponent0) Component already registered.
+[2017.12.01-03.43.32:946][863]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2017.12.01-03.43.32:946][863]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush50.BrushComponent0) Component already registered.
+[2017.12.01-03.43.32:947][863]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush32.BrushComponent0) Component already registered.
+[2017.12.01-03.43.32:947][863]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush39.BrushComponent0) Component already registered.
+[2017.12.01-03.43.32:947][863]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2017.12.01-03.43.32:947][863]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2017.12.01-03.43.35:360][128]Cmd: TRANSACTION UNDO
+[2017.12.01-03.43.35:360][128]LogEditorTransaction: Undo Rotate Actors
+[2017.12.01-03.43.35:376][128]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2017.12.01-03.43.35:377][128]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2017.12.01-03.43.35:377][128]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2017.12.01-03.43.35:377][128]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2017.12.01-03.43.35:381][128]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2017.12.01-03.43.35:381][128]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2017.12.01-03.43.35:381][128]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2017.12.01-03.43.35:381][128]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2017.12.01-03.43.35:382][128]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2017.12.01-03.43.35:382][128]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush43.BrushComponent0) Component already registered.
+[2017.12.01-03.43.35:382][128]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2017.12.01-03.43.35:382][128]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush50.BrushComponent0) Component already registered.
+[2017.12.01-03.43.35:383][128]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush32.BrushComponent0) Component already registered.
+[2017.12.01-03.43.35:383][128]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush39.BrushComponent0) Component already registered.
+[2017.12.01-03.43.35:383][128]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2017.12.01-03.43.35:383][128]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2017.12.01-03.44.27:326][174]Cmd: DUPLICATE
+[2017.12.01-03.44.27:326][174]Cmd: ACTOR DUPLICATE
+[2017.12.01-03.45.17:798][ 88]Cmd: DUPLICATE
+[2017.12.01-03.45.17:798][ 88]Cmd: ACTOR DUPLICATE
+[2017.12.01-03.46.34:728][ 95]Cmd: TRANSACTION UNDO
+[2017.12.01-03.46.34:728][ 95]LogEditorTransaction: Undo Move Actors
+[2017.12.01-03.46.34:745][ 95]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2017.12.01-03.46.34:746][ 95]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush25.BrushComponent0) Component already registered.
+[2017.12.01-03.46.34:746][ 95]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2017.12.01-03.46.34:746][ 95]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2017.12.01-03.46.34:747][ 95]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush55.BrushComponent0) Component already registered.
+[2017.12.01-03.46.34:752][ 95]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2017.12.01-03.46.34:752][ 95]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush50.BrushComponent0) Component already registered.
+[2017.12.01-03.46.34:753][ 95]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2017.12.01-03.48.22:524][727]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush55)
+[2017.12.01-03.48.55:628][648]Cmd: DUPLICATE
+[2017.12.01-03.48.55:628][648]Cmd: ACTOR DUPLICATE
+[2017.12.01-03.49.03:636][543]Cmd: TRANSACTION UNDO
+[2017.12.01-03.49.03:636][543]LogEditorTransaction: Undo Move Actors
+[2017.12.01-03.49.03:664][543]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2017.12.01-03.49.03:665][543]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2017.12.01-03.49.03:665][543]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2017.12.01-03.49.03:665][543]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush58.BrushComponent0) Component already registered.
+[2017.12.01-03.49.03:670][543]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2017.12.01-03.49.03:671][543]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2017.12.01-03.49.03:671][543]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2017.12.01-03.49.03:671][543]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2017.12.01-03.49.03:671][543]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2017.12.01-03.49.03:671][543]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2017.12.01-03.49.03:671][543]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2017.12.01-03.49.03:671][543]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2017.12.01-03.49.03:671][543]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush51.BrushComponent0) Component already registered.
+[2017.12.01-03.49.03:671][543]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush45.BrushComponent0) Component already registered.
+[2017.12.01-03.49.03:672][543]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2017.12.01-03.49.03:672][543]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush53.BrushComponent0) Component already registered.
+[2017.12.01-03.49.15:388][874]Cmd: TRANSACTION UNDO
+[2017.12.01-03.49.15:389][874]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.01-03.49.24:187][899]Cmd: TRANSACTION UNDO
+[2017.12.01-03.49.24:187][899]LogEditorTransaction: Undo Set Location
+[2017.12.01-03.49.24:219][899]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush40.BrushComponent0) Component already registered.
+[2017.12.01-03.49.24:220][899]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush32.BrushComponent0) Component already registered.
+[2017.12.01-03.49.24:220][899]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush44.BrushComponent0) Component already registered.
+[2017.12.01-03.49.24:221][899]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush55.BrushComponent0) Component already registered.
+[2017.12.01-03.49.24:221][899]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush48.BrushComponent0) Component already registered.
+[2017.12.01-03.49.24:222][899]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2017.12.01-03.49.24:227][899]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2017.12.01-03.49.24:227][899]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2017.12.01-03.49.24:227][899]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/FiringRange.FiringRange:PersistentLevel.BoxBrush16_11.BrushComponent0) Component already registered.
+[2017.12.01-03.49.47:444][567]Cmd: TRANSACTION UNDO
+[2017.12.01-03.49.47:444][567]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.01-03.49.48:513][692]Cmd: TRANSACTION UNDO
+[2017.12.01-03.49.48:513][692]LogEditorTransaction: Undo Move World Outliner Items
+[2017.12.01-03.49.48:896][734]Cmd: TRANSACTION UNDO
+[2017.12.01-03.49.48:896][734]LogEditorTransaction: Undo Rename Folder
+[2017.12.01-03.49.49:226][771]Cmd: TRANSACTION UNDO
+[2017.12.01-03.49.49:226][771]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.01-03.49.49:550][808]Cmd: TRANSACTION UNDO
+[2017.12.01-03.49.49:551][808]LogEditorTransaction: Undo Set Actor Visibility
+[2017.12.01-03.49.49:929][851]Cmd: TRANSACTION UNDO
+[2017.12.01-03.49.49:929][851]LogEditorTransaction: Undo Set Actor Visibility
+[2017.12.01-03.49.50:375][903]Cmd: TRANSACTION UNDO
+[2017.12.01-03.49.50:375][903]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.01-03.49.50:887][962]Cmd: TRANSACTION UNDO
+[2017.12.01-03.49.50:887][962]LogEditorTransaction: Undo Move World Outliner Items
+[2017.12.01-03.49.51:391][ 22]Cmd: TRANSACTION UNDO
+[2017.12.01-03.49.51:391][ 22]LogEditorTransaction: Undo Rename Folder
+[2017.12.01-03.49.52:079][104]Cmd: TRANSACTION UNDO
+[2017.12.01-03.49.52:079][104]LogEditorTransaction: Undo Create Folder
+[2017.12.01-03.49.52:659][173]Cmd: TRANSACTION UNDO
+[2017.12.01-03.49.52:659][173]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.01-03.49.52:671][173]LogWindows: Windows GetLastError: The operation completed successfully. (0)
